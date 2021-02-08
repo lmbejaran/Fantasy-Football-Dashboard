@@ -1,0 +1,71 @@
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 150%;
+    color:purple;
+    background: white;
+  }
+
+
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+th {
+    text-align: center;
+}
+
+
+h1 {
+padding: 10px 0;
+margin: 0;
+font-size: 40px;
+font-weight: bold;
+color: purple;
+text-align: left;
+}
+
+h2 {
+padding: 10px 0;
+margin: 0;
+font-size: 32px;
+font-weight: bold;
+color: purple;
+text-align: center
+}
+
+h3 {
+    padding: 10px 0;
+    margin: 0;
+    font-size: 24px;
+    color: purple;
+    text-align: left
+}
+
+li {
+    padding: 10px 0;
+    margin: 0;
+    font-size: 16px;
+    color: black;
+    text-align: left
+}
+
+ol {
+    padding: 10px 0;
+    margin: 0;
+    font-size: 16px;
+    color: black;
+    text-align: left
+}
+
+p {
+    padding: 10px 10px;
+    margin: 0;
+    font-size: 16px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
